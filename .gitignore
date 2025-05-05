@@ -1,3 +1,10 @@
+# Custom
+bot.log
+config.env
+package-lock.json
+bot.log
+replied.json
+
 # Logs
 logs
 *.log
